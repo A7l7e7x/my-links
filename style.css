@@ -14,7 +14,7 @@ img {
     border-radius: 70px;
     width: 320px;
     height: 320px;
-    border: 10px outset #FFEBB7;
+    border: 5px outset #FFEBB7;
 }
 
 img:hover {
@@ -68,7 +68,7 @@ footer {
 }
 .container {
     background-color: black;
-    width: 500px;
+    width: 320px;
     text-align: center;
     margin-top: 41px;
     margin-left: auto;
